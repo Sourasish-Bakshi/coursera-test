@@ -1,0 +1,92 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.navbar{
+	border-radius: 0px;
+	background-color: black;
+}
+
+.navbar-brand{
+    font-size: 250%;
+    padding-left: 25px;
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.nav{
+	margin: 0;
+	padding: 0;
+}
+
+.navbar-nav{
+  font-size: 25px;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-toggle{
+	border: 2px solid white;
+	margin-right: 5px;
+}
+
+.icon-bar{
+	background-color: white;
+}
+
+body{
+    background-color: white;
+}
+h2{
+    margin: 35px;
+    font-size: 225%;
+    font-weight: bold;
+    color: black;
+}
+.row{
+    width: 100%;
+    position: relative;
+}
+.section{
+    position: relative;
+    margin-bottom: 30px;
+    background-color: gray;
+    border: 2px solid black;
+    width: 100%;
+    height: auto;
+    padding: 5px;
+    color:black;
+}
+p{
+    background-color: gray;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+#sh1, #sh2, #sh3{
+    background-color: gray;
+    font-size: 175%;
+    font-weight: bold;
+}
+#header-nav{
+    background-color: gray;
+    border-radius: 0;
+    border: 0;
+}
+header .container{
+    background-color: gray;
+}
+h1{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.dropdown{
+    float: right;
+}
